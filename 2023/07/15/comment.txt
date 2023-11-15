@@ -1,0 +1,1 @@
+0306 - bad UV for channel 11, 13, 14 (5, 5.2, 5.6 GGz), no image
