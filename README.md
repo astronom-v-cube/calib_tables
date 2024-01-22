@@ -1,2 +1,2 @@
 # calib_tables
-Database calibration tables for SRH
+Database calibration tables for SRH (Globa method)
